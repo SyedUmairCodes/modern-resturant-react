@@ -1,6 +1,6 @@
-# Modern UI/UX Resturant website
+# Modern UI/UX Restaurant website
 
-A modern and fully responsive resturant website created using React.js. The inspiration for this design was taken from [This UI8 design template](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma).
+A modern and fully responsive restaurant website created using React.js. The inspiration for this design was taken from [This UI8 design template](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma).
 
 ## Technologies used:
 
