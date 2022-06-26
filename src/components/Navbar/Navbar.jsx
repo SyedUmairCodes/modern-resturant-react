@@ -27,7 +27,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="app__navbar-login">
-        <a href="#" className="p__opensans">
+        <a href="/" className="p__opensans">
           Log In / Register
         </a>
         <div></div>
@@ -43,7 +43,7 @@ const Navbar = () => {
           onClick={() => setToggleMenu(true)}
         />
         {toggleMenu && (
-          <div className="app__navbar-smallscreen_overlay flex-center slide-bottom">
+          <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
             <MdOutlineRestaurantMenu
               fontSize={27}
               className="overlay__close"
