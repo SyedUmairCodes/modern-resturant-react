@@ -7,3 +7,7 @@ A modern and fully responsive restaurant website created using React.js. The ins
 - [React](https://reactjs.org/)
 - [React-icons](https://react-icons.netlify.com/)
 - [BEM-CSS](https://en.bem.info/)
+
+## Things that can be improvd:
+
+- The introductory video can be improved to be rendered faster by using Cloudinary.
