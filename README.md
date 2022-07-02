@@ -12,7 +12,7 @@ A modern and fully responsive restaurant website created using React.js. The ins
 
 ## Things that can be improvd:
 
-- The introductory video can be improved to be rendered faster by using Cloudinary.
+- The introductory video and background images can be improved to be rendered faster by using Cloudinary.
 
 ## Screenshots:
 
@@ -21,3 +21,7 @@ A modern and fully responsive restaurant website created using React.js. The ins
 ![Header](./readme-images/chef-section.png)
 ![Header](./readme-images/menu-section.png)
 ![Header](./readme-images/footer-section.png)
+
+## Livesie URL:
+
+[Live site deployed on Netlify](modern-restaurant-react.netlify.app/)
