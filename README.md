@@ -5,8 +5,10 @@ A modern and fully responsive restaurant website created using React.js. The ins
 ## Technologies used:
 
 - [React](https://reactjs.org/)
+- [React hooks](https://reactjs.org/docs/hooks-intro.html);
 - [React-icons](https://react-icons.netlify.com/)
 - [BEM-CSS](https://en.bem.info/)
+- [Netlify](https://www.netlify.com/)
 
 ## Things that can be improvd:
 
