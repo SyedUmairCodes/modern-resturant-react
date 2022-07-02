@@ -13,3 +13,11 @@ A modern and fully responsive restaurant website created using React.js. The ins
 ## Things that can be improvd:
 
 - The introductory video can be improved to be rendered faster by using Cloudinary.
+
+## Screenshots:
+
+![Header](./readme-images/hero-section.png)
+![Header](./readme-images/about-section.png)
+![Header](./readme-images/chef-section.png)
+![Header](./readme-images/menu-section.png)
+![Header](./readme-images/footer-section.png)
